@@ -1,9 +1,14 @@
 body
 {
     margin:0;
+    font-size:0.7vw;
 }
 
+a
+{
+    color:black !important;
 
+}
 
 #banner
 {
@@ -11,7 +16,7 @@ margin-top:20px !important;
 	display:flex;
   list-style-type:none;
 justify-content:space-around;
-margin-left: 78% !important;
+margin-left: 83% !important;
 margin:0;
 padding: 0;
 }
@@ -65,16 +70,28 @@ ul
   overflow: hidden;
 }
 
+#country
+{
+    display:flex;
+    position: fixed;
+    width: 100%;
+    background-color:#DCDCDC;
+    bottom: 5%;
+}
+
+#connection
+{
+    background:    -moz-linear-gradient(top,#4387fd,#4683ea)
+}
 
 #footer
 {
-   height:8%;
+   height:5%;
    display:flex;
    position: fixed;
    width: 100%;
    background-color:#DCDCDC;
    bottom: 0;
    align-items: center;
-
- justify-content:space-around;
+   justify-content:space-around;
 }
