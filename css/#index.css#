@@ -1,0 +1,81 @@
+body
+{
+    margin:0;
+}
+
+#form
+{
+    width:20vw;
+    height:11vw;
+    margin: 0 auto;
+    margin-top:8vw;
+}
+
+#input
+{
+    width:30vw !important;
+    height:2.3vw;
+    margin: 0 auto;
+    display: inline-block;
+    margin-top:1.5vw;
+}
+
+#banner
+{
+    margin-left:85.8vw;
+    margin-top:0.8vw;
+}
+
+a
+{
+    margin-right:0.5vw;
+}
+
+#logo
+{
+
+    margin-left:3vw;
+}
+
+
+#footer
+{
+    width:9vw;
+    height:2.85vw;
+    margin-top:23.5vw;
+    background-color:grey;
+}
+
+#footer_left
+{
+    margin-left:1.2vw !important;
+}
+
+#footer_right
+{
+    margin-left:77.5vw;
+    margin-top:-1vw;
+}
+
+#search
+{
+    margin-top:1vw;
+    margin-left:0.5vw;
+    font-size:0.69vw;
+}
+
+button
+{
+margin-right:0.2vw;
+}
+
+a{
+    color:black;
+    font-size:0.6vw;
+}
+
+#connection
+{
+    background-color:blue;
+    color:white;
+}
